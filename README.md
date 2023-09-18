@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="500px" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/media/db94bb1a6ce53ad017fdda3c479186c9.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> , I'm Nimesha Prasadini</h1>
-<h3 align="center">I'm a Software Engineering Undergraduate from Sri Lanka.</h3>
+<h3 align="center">I'm a Software Engineering Enthusiast from Sri Lanka.</h3>
 
 
 ## 🙋‍♂️ About Me
