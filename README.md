@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Academic Projects**
+- 🔭 I’m currently working as **Associate Software Engineer(.NET)**
 
 - 🌱 I’m currently learning **.NET Framework, React & Redux, AngularJS Programming Languages and Azure DevOps .**
 
