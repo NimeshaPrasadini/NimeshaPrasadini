@@ -70,9 +70,9 @@
   </a>
 </p>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nimesha Prasadini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NimeshaPrasadini&show_icons=true&count_private=true&theme=react&bg_color=0D1117" align="left" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=NimeshaPrasadini&show_icons=true&count_private=true&theme=react&bg_color=0D1117"><img alt="Nimesha Prasadini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NimeshaPrasadini&show_icons=true&count_private=true&theme=react&bg_color=0D1117" align="left" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/NimeshaPrasadini/github-readme-stats"><img alt="Nimesha Prasadini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaPrasadini&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaPrasadini&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117"><img alt="Nimesha Prasadini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaPrasadini&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" /></a>
 <br/><br/>
 
 <b>Note:</b> Top languages are only metrics of the languages that my public code consists of and they don't reflect experience or skill level.
@@ -80,7 +80,7 @@
 <br/>
 <br/>
 
-<a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img alt="Nimesha Prasadini's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshaPrasadini&theme=github-compact" /></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=NimeshaPrasadini&theme=github-compact"><img alt="Nimesha Prasadini's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshaPrasadini&theme=github-compact" /></a>
 
 <br/>
 <br/>
