@@ -65,7 +65,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=NimeshaPrasadini&theme=highcontrast">
     <img alt="Nimesha Prasadini's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=NimeshaPrasadini&theme=highcontrast"/>
   </a>
 </p>
