@@ -41,7 +41,7 @@
     <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
     <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="48" height="48"/> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
@@ -61,25 +61,26 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/NimeshaPrasadini/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nimesha Prasadini's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshaPrasadini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My GitHub Stats
 
-  <br/>
-    <a href="https://github.com/NimeshaPrasadini/github-readme-stats"><img alt="Nimesha Prasadini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NimeshaPrasadini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/NimeshaPrasadini/github-readme-stats"><img alt="Nimesha Prasadini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaPrasadini&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages are only metrics of the languages that my public code consists of and they don't reflect experience or skill level.
+<br/>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/">
+    <img alt="Nimesha Prasadini's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=NimeshaPrasadini&theme=highcontrast"/>
+  </a>
+</p>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nimesha Prasadini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NimeshaPrasadini&show_icons=true&count_private=true&theme=react&bg_color=0D1117" align="left" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/NimeshaPrasadini/github-readme-stats"><img alt="Nimesha Prasadini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaPrasadini&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" /></a>
+<br/><br/>
 
+<b>Note:</b> Top languages are only metrics of the languages that my public code consists of and they don't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/NimeshaPrasadini/github-readme-activity-graph"><img alt="Nimesha Prasadini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NimeshaPrasadini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img alt="Nimesha Prasadini's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshaPrasadini&theme=github-compact" /></a>
 
 <br/>
 <br/>
