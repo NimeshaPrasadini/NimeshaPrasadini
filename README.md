@@ -71,7 +71,7 @@
 </p>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nimesha Prasadini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NimeshaPrasadini&show_icons=true&count_private=true&theme=react&bg_color=0D1117" align="left" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/NimeshaPrasadini/github-readme-stats"><img alt="Nimesha Prasadini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaPrasadini&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" /></a>
 <br/><br/>
 
