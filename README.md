@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **Software Engineer(.NET)**
+- 🔭 I’m currently working as a **Software Engineer(.NET)**
 
 - 🌱 I’m currently learning **.NET Framework, React & Redux, AngularJS Programming Languages and Azure DevOps .**
 
