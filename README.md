@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📝 I regularly write blogs on **[Tech Blog](https://tech-blog-nime.blogspot.com/)** & **[Code Blog](https://medium.com/@apnimeshap/c-fundamentals-62487fa0c7a3)**
+- 📝 I regularly write blogs on **[Tech Blog](https://tech-blog-nime.blogspot.com/)** & **[Medium Blog](https://medium.com/@apnimeshap/c-fundamentals-62487fa0c7a3)**
 
 - 📫 How to reach me **apnimeshap@gmail.com**
 
